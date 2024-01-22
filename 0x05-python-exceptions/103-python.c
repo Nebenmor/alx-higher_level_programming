@@ -1,6 +1,7 @@
 #include <Python.h>
 #include <stdio.h>
 /**
+ * This is CPython #2: PyFloatObject project
  * print_python_float - gives data of the PyFloatObject
  * @p: the PyObject
  */
