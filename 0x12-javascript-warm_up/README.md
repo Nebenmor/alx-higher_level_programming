@@ -1,1 +1,0 @@
-First constant, first print
